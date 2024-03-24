@@ -1,2 +1,2 @@
-pip intsall -r requirements.txt
+pip install -r requirements.txt
 flask run
