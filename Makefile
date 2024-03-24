@@ -5,3 +5,6 @@ test:
 run:
 	python -m flask run
 
+pylint:
+	pytest app.py
+
