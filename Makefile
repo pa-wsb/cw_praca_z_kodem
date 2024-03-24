@@ -6,5 +6,5 @@ run:
 	python -m flask run
 
 pylint:
-	pytest -r app.py
+	python -m pylint app.py
 
